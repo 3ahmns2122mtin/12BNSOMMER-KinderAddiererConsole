@@ -7,6 +7,7 @@ Ein kleines Spiel, mit dem man ein bisschen rechnen kann!
 Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform:
+https://3ahmns2122mtin.github.io/12BNSOMMER-KinderAddiererConsole/
 
 ### Visuelle Einblicke in das Projekt:
 ![2022-02-04 (1)](https://user-images.githubusercontent.com/90834410/152596830-a477613b-4857-4b21-ac98-b827372e5d42.png)
